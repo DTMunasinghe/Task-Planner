@@ -1,0 +1,11 @@
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\bin\Debug\netcoreapp2.0\CleanCodeAssignment.deps.json
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\bin\Debug\netcoreapp2.0\CleanCodeAssignment.runtimeconfig.json
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\bin\Debug\netcoreapp2.0\CleanCodeAssignment.runtimeconfig.dev.json
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\bin\Debug\netcoreapp2.0\CleanCodeAssignment.dll
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\bin\Debug\netcoreapp2.0\CleanCodeAssignment.pdb
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\obj\Debug\netcoreapp2.0\CleanCodeAssignment.csprojResolveAssemblyReference.cache
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\obj\Debug\netcoreapp2.0\CleanCodeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\obj\Debug\netcoreapp2.0\CleanCodeAssignment.AssemblyInfoInputs.cache
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\obj\Debug\netcoreapp2.0\CleanCodeAssignment.AssemblyInfo.cs
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\obj\Debug\netcoreapp2.0\CleanCodeAssignment.dll
+C:\Users\dtm\source\repos\CleanCodeAssignment\CleanCodeAssignment\obj\Debug\netcoreapp2.0\CleanCodeAssignment.pdb
